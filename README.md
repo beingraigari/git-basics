@@ -1,2 +1,2 @@
-# git-basics
-Trying the basic git commands
+# GitDev
+Project Git Learn
